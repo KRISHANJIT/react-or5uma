@@ -1,0 +1,26 @@
+{
+  "name": "react-or5uma",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "jszip": "3.2.2",
+    "react": "16.8.6",
+    "jquery": "1.12.2",
+    "pqgrid": "6.1.0",
+    "react-dom": "16.8.6",
+    "file-saver": "2.0.2",
+    "@types/jquery": "3.3.30",
+    "react-scripts": "2.1.8",
+    "jquery-ui-pack": "1.12.2",
+    "@types/jqueryui": "1.12.7"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "devDependencies": {
+    "react-scripts": "latest"
+  }
+}
