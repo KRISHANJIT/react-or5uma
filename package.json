@@ -5,7 +5,7 @@
   "dependencies": {
     "jszip": "3.2.2",
     "react": "16.8.6",
-    "jquery": "1.12.2",
+    "jquery": "3.5.0",
     "pqgrid": "6.1.0",
     "react-dom": "16.8.6",
     "file-saver": "2.0.2",
