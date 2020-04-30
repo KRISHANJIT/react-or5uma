@@ -9,7 +9,7 @@
     "react-dom": "16.8.6",
     "react-scripts": "2.1.8",
     "pqgrid": "6.1.0",
-    "jquery": "1.12.2",
+    "jquery": "3.5.0",
     "jquery-ui-pack": "",
     "jszip": "",
     "file-saver": "2.0.2"    
